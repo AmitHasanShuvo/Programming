@@ -14,5 +14,5 @@ x = input().lower()
 
 print(1 if n > x
       else -1
-if x > n
-else 0)
+      if x > n
+      else 0)
