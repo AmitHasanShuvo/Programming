@@ -16,3 +16,4 @@ for i in range(A):
     if C < B:
         print("Bad boi")
     else:
+        print("Good boi")
