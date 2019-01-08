@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46283fb-78e1-4582-ba32-b761cb448c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RepeatingCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStabilization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +16,15 @@
     <SUITE FILE_PATH="coverage/Programming$ChatRoom.coverage" NAME="ChatRoom Coverage Results" MODIFIED="1546967042920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$Watermelon2.coverage" NAME="Watermelon2 Coverage Results" MODIFIED="1545943478514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$WordCapitalization.coverage" NAME="WordCapitalization Coverage Results" MODIFIED="1546196874619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$RepeatingCipher.coverage" NAME="RepeatingCipher Coverage Results" MODIFIED="1546977447873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$ArrayStabilization.coverage" NAME="ArrayStabilization Coverage Results" MODIFIED="1546980371142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$StringTask.coverage" NAME="StringTask Coverage Results" MODIFIED="1546205875426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$RepeatingCipher.coverage" NAME="RepeatingCipher Coverage Results" MODIFIED="1546978580325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$bitplusplus.coverage" NAME="bitplusplus Coverage Results" MODIFIED="1546482346144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$FancyQuotes.coverage" NAME="FancyQuotes Coverage Results" MODIFIED="1546663185846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$football.coverage" NAME="football Coverage Results" MODIFIED="1546459059303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$TheatreSqaure2.coverage" NAME="TheatreSqaure2 Coverage Results" MODIFIED="1546195470924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$TheatreSquare.coverage" NAME="TheatreSquare Coverage Results" MODIFIED="1546196021483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$CodeChefDEC18N.coverage" NAME="CodeChefDEC18N Coverage Results" MODIFIED="1546661626944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$StringTask.coverage" NAME="StringTask Coverage Results" MODIFIED="1546205875426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1396967773">
@@ -42,25 +43,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="20" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="2191" />
+          <entry key="py" value="2413" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="2191" />
+          <entry key="Python" value="2413" />
         </counts>
       </usages-collector>
     </session>
@@ -79,17 +80,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChatRoom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="40">
+              <caret line="2" selection-start-line="2" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RepeatingCipher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RepeatingCipher.py">
+        <entry file="file://$PROJECT_DIR$/ArrayStabilization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="140">
+              <caret line="7" column="282" selection-start-line="7" selection-start-column="282" selection-end-line="7" selection-end-column="282" />
             </state>
           </provider>
         </entry>
@@ -169,6 +179,7 @@
         <option value="$PROJECT_DIR$/GennaddyAndCardGame.py" />
         <option value="$PROJECT_DIR$/ChatRoom.py" />
         <option value="$PROJECT_DIR$/RepeatingCipher.py" />
+        <option value="$PROJECT_DIR$/ArrayStabilization.py" />
       </list>
     </option>
   </component>
@@ -178,9 +189,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="494" />
-    <option name="y" value="114" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="500" />
+    <option name="y" value="50" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
@@ -222,7 +233,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RepeatingCipher">
+  <component name="RunManager" selected="Python.ArrayStabilization">
+    <configuration name="ArrayStabilization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayStabilization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ChatRoom" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,28 +270,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatRoom.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CodeChefDEC18N" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeChefDEC18N.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,18 +346,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.FancyQuotes" />
-      <item itemvalue="Python.CodeChefDEC18N" />
       <item itemvalue="Python.GennaddyAndCardGame" />
       <item itemvalue="Python.ChatRoom" />
       <item itemvalue="Python.RepeatingCipher" />
+      <item itemvalue="Python.ArrayStabilization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ArrayStabilization" />
         <item itemvalue="Python.RepeatingCipher" />
         <item itemvalue="Python.ChatRoom" />
         <item itemvalue="Python.GennaddyAndCardGame" />
         <item itemvalue="Python.FancyQuotes" />
-        <item itemvalue="Python.CodeChefDEC18N" />
       </list>
     </recent_temporary>
   </component>
@@ -364,10 +375,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="199" y="30" width="1440" height="828" extended-state="0" />
+    <frame x="500" y="50" width="1440" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27682403" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27682403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -465,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChatRoom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GennaddyAndCardGame.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -483,6 +487,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatRoom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayStabilization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="282" selection-start-line="7" selection-start-column="282" selection-end-line="7" selection-end-column="282" />
         </state>
       </provider>
     </entry>
