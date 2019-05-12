@@ -26,6 +26,6 @@ Python 3.7.0
 |8|[Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GennaddyAndCardGame.py) |    |   |(https://codeforces.com/blog/entry/64310)|Easy|Implementation|
 |9|[Helpful Math](http://codeforces.com/problemset/problem/339/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/HelpfulMaths.py) |    |   |(http://codeforces.com/blog/entry/8725)|Easy|Greedy|
 |10|[Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/IntegerSequenceDividing.py) |    |   |( https://codeforces.com/blog/entry/64439)|Easy|Math|
-|811|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Leetcode26.py) |    |   |(https://www.youtube.com/watch?v=VSq4wxSpbTc&t=2s)|Easy|Array|
+|11|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Leetcode26.py) |    |   |(https://www.youtube.com/watch?v=VSq4wxSpbTc&t=2s)|Easy|Array|
 
 
