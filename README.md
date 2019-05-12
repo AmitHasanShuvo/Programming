@@ -17,6 +17,9 @@ I tried to solve programming problems from codeforces,codechef,leetcode and many
 |-----|----------------|---------------|---------------|---------------|--------|-------------|-------------
 |1|[Football](http://codeforces.com/problemset/problem/96/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/football.py) | O(1) | O(1) | (http://codeforces.com/blog/entry/64130)|Easy|Strings|
 |2|[Range of sum BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode938.py) |    |   |(https://www.youtube.com/watch?v=bD9oYzwfZ1w)|Easy|Tree|
-|2|[Array Stabilization](http://codeforces.com/problemset/problem/1095/B)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/ArrayStabilization.py) |    |   |(http://codeforces.com/blog/entry/64130)|Easy|Implementation|
+|3|[Array Stabilization](http://codeforces.com/problemset/problem/1095/B)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/ArrayStabilization.py) |    |   |(http://codeforces.com/blog/entry/64130)|Easy|Implementation|
+|4|[Boy or Girl](https://codeforces.com/problemset/problem/236/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/BoyOrGirl.py) |    |   |(https://codeforces.com/blog/entry/5592)|Easy|Brute Force|
+|5|[ Chat room](https://codeforces.com/problemset/problem/58/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/ChatRoom.py) |    |   |(https://codeforces.com/blog/entry/1771)|Easy|Greedy|
+|6|[Chef and Interactive Contests](https://www.codechef.com/problems/CHFINTRO)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CodeChefDEC18N.py) |    |   |(https://www.youtube.com/watch?v=aWBkxc__VDY)|Easy|Implementation|
 
 
