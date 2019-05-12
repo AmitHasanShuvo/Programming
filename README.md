@@ -24,5 +24,8 @@ Python 3.7.0
 |6|[Chef and Interactive Contests](https://www.codechef.com/problems/CHFINTRO)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CodeChefDEC18N.py) |    |   |(https://www.youtube.com/watch?v=aWBkxc__VDY)|Easy|Implementation|
 |7|[Fancy Quotes](https://www.codechef.com/JAN19A/problems/FANCY)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/FancyQuotes.py) |    |   |(https://www.youtube.com/watch?v=xZKd3lkYLdE)|Easy|Implementation|
 |8|[Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GennaddyAndCardGame.py) |    |   |(https://codeforces.com/blog/entry/64310)|Easy|Implementation|
+|9|[Helpful Math](http://codeforces.com/problemset/problem/339/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/HelpfulMaths.py) |    |   |(http://codeforces.com/blog/entry/8725)|Easy|Greedy|
+|10|[Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/IntegerSequenceDividing.py) |    |   |( https://codeforces.com/blog/entry/64439)|Easy|Math|
+|811|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Leetcode26.py) |    |   |(https://www.youtube.com/watch?v=VSq4wxSpbTc&t=2s)|Easy|Array|
 
 
