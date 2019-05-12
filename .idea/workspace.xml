@@ -77,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="512">
-                <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <first_editor relative-caret-position="519">
+                <caret line="28" column="253" selection-start-line="28" selection-start-column="253" selection-end-line="28" selection-end-column="253" />
               </first_editor>
               <second_editor />
             </state>
@@ -339,12 +339,12 @@
       <workItem from="1557427843580" duration="1125000" />
       <workItem from="1557514013941" duration="1052000" />
       <workItem from="1557690168910" duration="2281000" />
-      <workItem from="1557695949329" duration="1929000" />
+      <workItem from="1557695949329" duration="2072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9536000" />
+    <option name="totallyTimeSpent" value="9679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-23" y="99" width="1440" height="834" extended-state="0" />
@@ -568,8 +568,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="512">
-            <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <first_editor relative-caret-position="519">
+            <caret line="28" column="253" selection-start-line="28" selection-start-column="253" selection-end-line="28" selection-end-column="253" />
           </first_editor>
           <second_editor />
         </state>
