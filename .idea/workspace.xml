@@ -78,7 +78,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="380">
-                <caret line="19" column="215" selection-start-line="19" selection-start-column="215" selection-end-line="19" selection-end-column="215" />
+                <caret line="19" column="216" lean-forward="true" selection-start-line="19" selection-start-column="216" selection-end-line="19" selection-end-column="216" />
               </first_editor>
               <second_editor />
             </state>
@@ -137,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-33" />
     <option name="y" value="265" />
     <option name="width" value="1440" />
@@ -339,18 +339,18 @@
       <workItem from="1557427843580" duration="1125000" />
       <workItem from="1557514013941" duration="1052000" />
       <workItem from="1557690168910" duration="2281000" />
-      <workItem from="1557695949329" duration="191000" />
+      <workItem from="1557695949329" duration="319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7798000" />
+    <option name="totallyTimeSpent" value="7926000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-33" y="265" width="1440" height="834" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15736766" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15736766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,7 +369,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -569,7 +569,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="380">
-            <caret line="19" column="215" selection-start-line="19" selection-start-column="215" selection-end-line="19" selection-end-column="215" />
+            <caret line="19" column="216" lean-forward="true" selection-start-line="19" selection-start-column="216" selection-end-line="19" selection-end-column="216" />
           </first_editor>
           <second_editor />
         </state>
