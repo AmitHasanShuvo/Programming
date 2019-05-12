@@ -77,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="22" column="221" selection-start-line="22" selection-start-column="221" selection-end-line="22" selection-end-column="221" />
+              <first_editor relative-caret-position="180">
+                <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -339,12 +339,12 @@
       <workItem from="1557427843580" duration="1125000" />
       <workItem from="1557514013941" duration="1052000" />
       <workItem from="1557690168910" duration="2281000" />
-      <workItem from="1557695949329" duration="817000" />
+      <workItem from="1557695949329" duration="917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8424000" />
+    <option name="totallyTimeSpent" value="8524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-33" y="265" width="1440" height="834" extended-state="0" />
@@ -568,8 +568,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="22" column="221" selection-start-line="22" selection-start-column="221" selection-end-line="22" selection-end-column="221" />
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
           </first_editor>
           <second_editor />
         </state>

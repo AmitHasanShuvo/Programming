@@ -2,11 +2,12 @@
 I tried to solve programming problems from codeforces,codechef,leetcode and many other platforms.It's my little effort to put all the solutions here to help others to understand.
 
 
-
+##Languages
+Python 3.7.0
 
 ## Best way to open this project
 
-1. Install Pycharm or VS code on your machine.
+1. Install PyCharm or VS code on your machine.(Make sure you use Python 3.7 or higher)
 2. git clone this repo to your local disk
 
 
