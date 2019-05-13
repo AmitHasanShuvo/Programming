@@ -30,6 +30,6 @@ Python 3.7.0
 |12|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Leetcode771.py) |    |   |https://www.youtube.com/watch?v=9Reqqk60Nv4&t=32s|Easy|Hash Table|
 |13|[Lucky Division](https://codeforces.com/contest/122/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/LuckyDivision.py) |    |   |https://codeforces.com/blog/entry/2956|Easy|Brute Force,Number Theory|
 |14|[Middle of the Contest](http://codeforces.com/problemset/problem/1133/A?locale=en)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/MiddleofTheContest.py) |    |   |http://codeforces.com/blog/entry/65807|Easy|Implementation|
-|15|[Petya and Strings](hhttp://codeforces.com/problemset/problem/112/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PetyaAndStrings1.py) |    |   |http://codeforces.com/blog/entry/2616|Easy|Implementation|
+|15|[Petya and Strings](https://codeforces.com/problemset/problem/112/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PetyaAndStrings1.py) |    |   |http://codeforces.com/blog/entry/2616|Easy|Implementation|
 
 
