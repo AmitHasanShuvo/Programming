@@ -27,5 +27,9 @@ Python 3.7.0
 |9|[Helpful Math](http://codeforces.com/problemset/problem/339/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/HelpfulMaths.py) |    |   |http://codeforces.com/blog/entry/8725|Easy|Greedy|
 |10|[Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/IntegerSequenceDividing.py) |    |   | https://codeforces.com/blog/entry/64439|Easy|Math|
 |11|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Leetcode26.py) |    |   |https://www.youtube.com/watch?v=VSq4wxSpbTc&t=2s|Easy|Array|
+|12|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Leetcode771.py) |    |   |https://www.youtube.com/watch?v=9Reqqk60Nv4&t=32s|Easy|Hash Table|
+|13|[Lucky Division](https://codeforces.com/contest/122/problem/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/LuckyDivision.py) |    |   |https://codeforces.com/blog/entry/2956|Easy|Brute Force,Number Theory|
+|14|[Middle of the Contest](http://codeforces.com/problemset/problem/1133/A?locale=en)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/MiddleofTheContest.py) |    |   |http://codeforces.com/blog/entry/65807|Easy|Implementation|
+|15|[Petya and Strings](hhttp://codeforces.com/problemset/problem/112/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PetyaAndStrings1.py) |    |   |http://codeforces.com/blog/entry/2616|Easy|Implementation|
 
 
