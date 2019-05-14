@@ -36,3 +36,4 @@ Python 3.7.0
 |18|[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode595.sql) |    |   | |Easy|Database|
 |19|[Sort array by parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode905.py) |    |   | |Easy|Array|
 |20|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode961EASY.py) |    |   | https://www.youtube.com/watch?v=LsDeiI3yhG0|Easy|Array|
+|21|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode977.py) |    |   | |Easy|Array|
