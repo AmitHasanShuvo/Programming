@@ -32,6 +32,6 @@ Python 3.7.0
 |14|[Middle of the Contest](http://codeforces.com/problemset/problem/1133/A?locale=en)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/MiddleofTheContest.py) |    |   |http://codeforces.com/blog/entry/65807|Easy|Implementation|
 |15|[Petya and Strings](https://codeforces.com/problemset/problem/112/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PetyaAndStrings1.py) |    |   |http://codeforces.com/blog/entry/2616|Easy|Implementation|
 |16|[To lower case](https://leetcode.com/problems/to-lower-case/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode709.py) |    |   | |Easy|String|
-|16|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode804.py) |    |   | |Easy|Hash Table|
+|17|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode804.py) |    |   | |Easy|Hash Table|
 
 

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46283fb-78e1-4582-ba32-b761cb448c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode804.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="512">
-                <caret line="34" column="198" selection-start-line="34" selection-start-column="198" selection-end-line="34" selection-end-column="198" />
+              <first_editor relative-caret-position="515">
+                <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -374,12 +372,12 @@
       <workItem from="1557769467259" duration="2456000" />
       <workItem from="1557832303526" duration="38000" />
       <workItem from="1557832368375" duration="186000" />
-      <workItem from="1557866029980" duration="342000" />
+      <workItem from="1557866029980" duration="371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12763000" />
+    <option name="totallyTimeSpent" value="12792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="423" y="82" width="1440" height="834" extended-state="0" />
@@ -626,8 +624,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="512">
-            <caret line="34" column="198" selection-start-line="34" selection-start-column="198" selection-end-line="34" selection-end-column="198" />
+          <first_editor relative-caret-position="515">
+            <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
