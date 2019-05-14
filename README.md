@@ -34,4 +34,4 @@ Python 3.7.0
 |16|[To lower case](https://leetcode.com/problems/to-lower-case/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode709.py) |    |   | |Easy|String|
 |17|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode804.py) |    |   | |Easy|Hash Table|
 |18|[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode595.sql) |    |   | |Easy|Database|
-
+|18|[Sort array by parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode905.py) |    |   | |Easy|Array|

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46283fb-78e1-4582-ba32-b761cb448c8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode905.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,10 +93,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="572">
-                <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <first_editor relative-caret-position="567">
+                <caret line="36" column="187" selection-start-line="36" selection-start-column="187" selection-end-line="36" selection-end-column="187" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode905.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="68" lean-forward="true" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -186,13 +197,14 @@
         <option value="$PROJECT_DIR$/leetcode709.py" />
         <option value="$PROJECT_DIR$/leetcode804.py" />
         <option value="$PROJECT_DIR$/leetcode595.sql" />
+        <option value="$PROJECT_DIR$/leetcode905.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="72" />
+    <option name="x" value="39" />
+    <option name="y" value="35" />
     <option name="width" value="1440" />
     <option name="height" value="834" />
   </component>
@@ -397,15 +409,15 @@
       <workItem from="1557769467259" duration="2456000" />
       <workItem from="1557832303526" duration="38000" />
       <workItem from="1557832368375" duration="186000" />
-      <workItem from="1557866029980" duration="774000" />
+      <workItem from="1557866029980" duration="1274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13195000" />
+    <option name="totallyTimeSpent" value="13695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="72" width="1440" height="834" extended-state="0" />
+    <frame x="39" y="35" width="1440" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16595136" />
@@ -653,11 +665,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode905.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="68" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="572">
-            <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <first_editor relative-caret-position="567">
+            <caret line="36" column="187" selection-start-line="36" selection-start-column="187" selection-end-line="36" selection-end-column="187" />
           </first_editor>
           <second_editor />
         </state>
