@@ -1,7 +1,10 @@
-class Solution:
-    def repeatedNTimes(self, A: List[int]) -> int:
-
-        count = collections.Counter[A]
-        for k in count:
-            if count[k] > 1:
-                return k
+class Solution(object):
+    def singleNumber(self, nums):
+       
+        no_duplicate_list = []
+        for i in nums:
+            if i not in no_duplicate_list:
+                no_duplicate_list.append(i)
+            else:
+                no_duplicate_list.remove(i)
+        return no_duplicate_list.pop()
