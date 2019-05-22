@@ -1,6 +1,6 @@
 class Solution(object):
     def singleNumber(self, nums):
-       
+
         no_duplicate_list = []
         for i in nums:
             if i not in no_duplicate_list:
