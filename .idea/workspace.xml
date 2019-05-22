@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46283fb-78e1-4582-ba32-b761cb448c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode929.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode961.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode961.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +51,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode929.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="6" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="640">
+                <caret line="40" column="190" selection-start-line="40" selection-start-column="190" selection-end-line="40" selection-end-column="190" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -118,20 +128,18 @@
         <option value="$PROJECT_DIR$/leetcode961EASY.py" />
         <option value="$PROJECT_DIR$/leetcode977.py" />
         <option value="$PROJECT_DIR$/TelephoneNumber.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/UVa01124.py" />
         <option value="$PROJECT_DIR$/leetcode189.py" />
         <option value="$PROJECT_DIR$/leetcode136.py" />
         <option value="$PROJECT_DIR$/leetcode961.py" />
         <option value="$PROJECT_DIR$/leetcode929.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="530" />
-    <option name="y" value="213" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="834" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -338,18 +346,18 @@
       <workItem from="1558030126736" duration="675000" />
       <workItem from="1558034496125" duration="385000" />
       <workItem from="1558208088186" duration="1994000" />
-      <workItem from="1558556576729" duration="497000" />
+      <workItem from="1558556576729" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19538000" />
+    <option name="totallyTimeSpent" value="19697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="530" y="213" width="1440" height="834" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -622,16 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="552">
-            <caret line="39" column="196" selection-start-line="39" selection-start-column="196" selection-end-line="39" selection-end-column="196" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UVa01124.py" />
     <entry file="file://$PROJECT_DIR$/leetcode136.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -692,7 +690,17 @@
     <entry file="file://$PROJECT_DIR$/leetcode929.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="6" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="640">
+            <caret line="40" column="190" selection-start-line="40" selection-start-column="190" selection-end-line="40" selection-end-column="190" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

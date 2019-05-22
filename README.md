@@ -38,3 +38,4 @@ Python 3.7.0
 |20|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode961EASY.py) |    |   | https://www.youtube.com/watch?v=LsDeiI3yhG0|Easy|Array|
 |21|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode977.py) |    |   | |Easy|Array|
 |22|[Telephone Number](https://codeforces.com/problemset/problem/1167/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/TelephoneNumber.py) |    |   | |Easy|Greedy,Bruteforce|
+|23|[Unique Email Address](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode929.py) |    |   | |Easy|String|
