@@ -4,7 +4,7 @@ class Solution(object):
         for email in emails:
             x = email.split("@")
             y = x[0].split("+")
-            z = y[0].replace(".", "")
+            z = y[0].replace(".","")
             x = z + "@" + x[1]
-            actual.add(x)
-        return len(actual)
+            actual.add(c)
+            return len(actual)

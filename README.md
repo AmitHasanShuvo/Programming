@@ -39,3 +39,11 @@ Python 3.7.0
 |21|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode977.py) |    |   | |Easy|Array|
 |22|[Telephone Number](https://codeforces.com/problemset/problem/1167/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/TelephoneNumber.py) |    |   | |Easy|Greedy,Bruteforce|
 |23|[Unique Email Address](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode929.py) |    |   | |Easy|String|
+|24|[Repeating Cipher](https://codeforces.com/problemset/problem/1095/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/RepeatingCipher.py) |    |   | |Easy|String|
+|25|[String Task](https://codeforces.com/problemset/problem/118/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/StringTask.py) |    |   | |Easy|String|
+|26|[Two distinct points](https://codeforces.com/problemset/problem/1108/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/TwoDistinctPoints.py) |    |   | |Easy|Implementation|
+|27|[Watermelon](https://codeforces.com/problemset/problem/4/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Watermelon2.py) |    |   | |Easy|Math|
+|28|[Way too long Words](https://codeforces.com/problemset/problem/71/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/WayTooLong.py) |    |   | |Easy|String|
+|29|[ Word Capitalization](https://codeforces.com/problemset/problem/281/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/WordCapitalization.py) |    |   | |Easy|String|
+|30|[Borze](https://codeforces.com/problemset/problem/32/B)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/borze.py) |    |   | |Easy|Implementation|
+|31|[Football](https://codeforces.com/problemset/problem/96/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/football.py) |    |   | |Easy|Implementation|
