@@ -8,7 +8,7 @@ Python 3.7.0
 ## Best way to open this project
 
 1. Install PyCharm or VS code on your machine.(Make sure you use Python 3.7 or higher)
-2. git clone this repo to your local disk
+2. git clone this repo to your local disk.
 
 
 
