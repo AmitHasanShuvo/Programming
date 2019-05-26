@@ -48,4 +48,4 @@ Python 3.7.0
 |30|[Borze](https://codeforces.com/problemset/problem/32/B)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/borze.py) |    |   | |Easy|Implementation|
 |31|[Football](https://codeforces.com/problemset/problem/96/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/football.py) |    |   | |Easy|Implementation|
 |32|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode657.py) |    |   | |Easy|String|
-|33|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode461.py) |    |   | |Easy|Bit Manipulation|
+|33|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode461.py) |    |   |https://www.youtube.com/watch?v=luTAASaerOg&t=755s |Easy|Bit Manipulation|
