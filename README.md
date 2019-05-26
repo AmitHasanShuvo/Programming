@@ -49,4 +49,5 @@ Python 3.7.0
 |31|[Football](https://codeforces.com/problemset/problem/96/A)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/football.py) |    |   | |Easy|Implementation|
 |32|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode657.py) |    |   | |Easy|String|
 |33|[Merge two binary tree](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode617.py) |    |   | |Easy|Tree|
-|33|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode461.py) |    |   |https://www.youtube.com/watch?v=luTAASaerOg&t=755s |Easy|Bit Manipulation|
+|34|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode461.py) |    |   |https://www.youtube.com/watch?v=luTAASaerOg&t=755s |Easy|Bit Manipulation|
+|35|[Self Dividing Number](https://leetcode.com/problems/self-dividing-numbers/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode728.py) |    |   | |Easy|Math|
