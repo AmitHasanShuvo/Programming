@@ -51,3 +51,4 @@ Python 3.7.0
 |33|[Merge two binary tree](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode617.py) |    |   | |Easy|Tree|
 |34|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode461.py) |    |   |https://www.youtube.com/watch?v=luTAASaerOg&t=755s |Easy|Bit Manipulation|
 |35|[Self Dividing Number](https://leetcode.com/problems/self-dividing-numbers/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode728.py) |    |   | |Easy|Math|
+|36|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode852.py) |    |   | |Easy|Binary Search|
