@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46283fb-78e1-4582-ba32-b761cb448c8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AVeryBigSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +57,34 @@
         <entry file="file://$PROJECT_DIR$/SimpleArraySum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
+              <caret line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AVeryBigSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleArraySum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AVeryBigSum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -64,8 +93,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="401">
-                <caret line="55" column="182" selection-start-line="55" selection-start-column="182" selection-end-line="55" selection-end-column="182" />
+              <first_editor relative-caret-position="446">
+                <caret line="58" column="168" selection-start-line="58" selection-start-column="168" selection-end-line="58" selection-end-column="168" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TheatreSquare.py" />
         <option value="$PROJECT_DIR$/WordCapitalization.py" />
         <option value="$PROJECT_DIR$/StringTask.py" />
         <option value="$PROJECT_DIR$/football.py" />
@@ -137,6 +165,7 @@
         <option value="$PROJECT_DIR$/.vscode/leetcode728.py" />
         <option value="$PROJECT_DIR$/leetcode852.py" />
         <option value="$PROJECT_DIR$/SimpleArraySum.py" />
+        <option value="$PROJECT_DIR$/AVeryBigSum.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -361,12 +390,12 @@
       <workItem from="1558809383673" duration="719000" />
       <workItem from="1558895897308" duration="1460000" />
       <workItem from="1558985595006" duration="314000" />
-      <workItem from="1559330901008" duration="620000" />
+      <workItem from="1559330901008" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24802000" />
+    <option name="totallyTimeSpent" value="25244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -435,21 +464,6 @@
     <SUITE FILE_PATH="coverage/Programming$leetcode804.coverage" NAME="leetcode804 Coverage Results" MODIFIED="1557779225150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task01.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4240">
-          <caret line="221" selection-start-line="221" selection-end-line="221" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChefDEC18N.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NafuReborn.py" />
     <entry file="file://$PROJECT_DIR$/SquareRoot.py" />
     <entry file="file://$PROJECT_DIR$/PetyaAndStrings2.py">
@@ -723,6 +737,27 @@
     <entry file="file://$PROJECT_DIR$/SimpleArraySum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
+          <caret line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleArraySum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVeryBigSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVeryBigSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
@@ -730,8 +765,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="401">
-            <caret line="55" column="182" selection-start-line="55" selection-start-column="182" selection-end-line="55" selection-end-column="182" />
+          <first_editor relative-caret-position="446">
+            <caret line="58" column="168" selection-start-line="58" selection-start-column="168" selection-end-line="58" selection-end-column="168" />
           </first_editor>
           <second_editor />
         </state>

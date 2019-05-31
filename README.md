@@ -55,3 +55,5 @@ C++
 |36|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode852.py) |    |   | |Easy|Binary Search|
 |37|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/SimpleArraySum.py) |    |   | |Easy|Algorithm|
 |37a|[Simple Array Sum in cpp](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/SimpleArraySum.cpp) |    |   | |Easy|Algorithm|
+|38|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AVeryBigSum.py) |    |   | |Easy|Algorithm|
+|38a|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AVeryBigSum.cpp) |    |   | |Easy|Algorithm|
