@@ -57,3 +57,5 @@ C++
 |37a|[Simple Array Sum in cpp](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/SimpleArraySum.cpp) |    |   | |Easy|Algorithm|
 |38|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AVeryBigSum.py) |    |   | |Easy|Algorithm|
 |38a|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AVeryBigSum.cpp) |    |   | |Easy|Algorithm|
+|39|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PlusMinus.py) |    |   | |Easy|Algorithm|
+|39a|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PlusMinus.cpp) |    |   | |Easy|Algorithm|
