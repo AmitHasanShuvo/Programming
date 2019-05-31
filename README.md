@@ -53,3 +53,4 @@ Python 3.7.0
 |35|[Self Dividing Number](https://leetcode.com/problems/self-dividing-numbers/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode728.py) |    |   | |Easy|Math|
 |36|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/leetcode852.py) |    |   | |Easy|Binary Search|
 |37|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/SimpleArraySum.py) |    |   | |Easy|Algorithm|
+|37a|[Simple Array Sum in cpp](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/SimpleArraySum.cpp) |    |   | |Easy|Algorithm|
