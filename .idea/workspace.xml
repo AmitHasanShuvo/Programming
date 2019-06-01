@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46283fb-78e1-4582-ba32-b761cb448c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PlusMinus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Staircase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Staircase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -74,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleArraySum.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="220">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -93,10 +94,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="438">
-                <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+              <first_editor relative-caret-position="665">
+                <caret line="62" column="156" selection-start-line="62" selection-start-column="156" selection-end-line="62" selection-end-column="156" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Staircase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Staircase.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -125,8 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StringTask.py" />
-        <option value="$PROJECT_DIR$/football.py" />
         <option value="$PROJECT_DIR$/bitplusplus.py" />
         <option value="$PROJECT_DIR$/HelpfulMaths.py" />
         <option value="$PROJECT_DIR$/CodeChefDEC18N.py" />
@@ -175,6 +192,8 @@
         <option value="$PROJECT_DIR$/SimpleArraySum.py" />
         <option value="$PROJECT_DIR$/AVeryBigSum.py" />
         <option value="$PROJECT_DIR$/PlusMinus.py" />
+        <option value="$PROJECT_DIR$/Staircase.py" />
+        <option value="$PROJECT_DIR$/Staircase.cpp" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -402,17 +421,18 @@
       <workItem from="1558895897308" duration="1460000" />
       <workItem from="1558985595006" duration="314000" />
       <workItem from="1559330901008" duration="1835000" />
+      <workItem from="1559432775335" duration="136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26017000" />
+    <option name="totallyTimeSpent" value="26153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18955651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -476,10 +496,6 @@
     <SUITE FILE_PATH="coverage/Programming$leetcode804.coverage" NAME="leetcode804 Coverage Results" MODIFIED="1557779225150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SquareRoot.py" />
-    <entry file="file://$PROJECT_DIR$/PetyaAndStrings2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/WayTooLong.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -745,17 +761,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleArraySum.cpp">
+    <entry file="file://$PROJECT_DIR$/SimpleArraySum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AVeryBigSum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -766,10 +775,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleArraySum.py">
+    <entry file="file://$PROJECT_DIR$/SimpleArraySum.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="220">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AVeryBigSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -780,11 +796,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Staircase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Staircase.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="438">
-            <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <first_editor relative-caret-position="665">
+            <caret line="62" column="156" selection-start-line="62" selection-start-column="156" selection-end-line="62" selection-end-column="156" />
           </first_editor>
           <second_editor />
         </state>
