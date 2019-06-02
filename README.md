@@ -4,7 +4,7 @@ I tried to solve programming problems from codeforces,codechef,leetcode and many
 
 ## Languages
 Python 3.7.0,
-C++ 
+C++ (a)
 
 ## Best way to open this project
 
