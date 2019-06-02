@@ -61,3 +61,5 @@ C++
 |39a|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PlusMinus.cpp) |    |   | |Easy|Algorithm|
 |40|[Plus Minus](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Staircase.py) |    |   | |Easy|Algorithm|
 |40a|[Plus Minus](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Staircse.cpp) |    |   | |Easy|Algorithm|
+|40|[Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CompareTheTriples.py) |    |   | |Easy|Algorithm|
+|40a|[Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CompareTheTriples.cpp) |    |   | |Easy|Algorithm|
