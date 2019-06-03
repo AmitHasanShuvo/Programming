@@ -66,3 +66,4 @@ C++ (a)
 |41|[Min Max SUm](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/MiniMaxSum.py) |    |   | |Easy|Algorithm|
 |42|[Birthay Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/BdayCakeCandles.py) |    |   | |Easy|Algorithm|
 |43|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.py) |    |   | |Easy|Algorithm|
+|43a|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.cpp) |    |   | |Easy|Algorithm|
