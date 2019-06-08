@@ -67,3 +67,5 @@ C++ (a)
 |42|[Birthay Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/BdayCakeCandles.py) |    |   | |Easy|Algorithm|
 |43|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.py) |    |   | |Easy|Algorithm|
 |43a|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.cpp) |    |   | |Easy|Algorithm|
+|44|[Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.py) |    |   | |Easy|Algorithm|
+|44a|[Apple and Oranges](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.cpp) |    |   | |Easy|Algorithm|

@@ -7,6 +7,7 @@ void solution() {
 
      int n, x;
 
+
      cin >> n;
 
      assert(n > 0 && n <= 60);
