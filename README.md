@@ -69,3 +69,5 @@ C++ (a)
 |44a|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.cpp) |    |   | |Easy|Algorithm|
 |45|[Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.py) |    |   | |Easy|Algorithm|
 |45a|[Apple and Oranges](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.cpp) |    |   | |Easy|Algorithm|
+|46|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/kangaroo.py) |    |   | |Easy|Algorithm|
+|46a|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/kangaroo.cpp) |    |   | |Easy|Algorithm|
