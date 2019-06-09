@@ -61,11 +61,11 @@ C++ (a)
 |39a|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/PlusMinus.cpp) |    |   | |Easy|Algorithm|
 |40|[Plus Minus](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Staircase.py) |    |   | |Easy|Algorithm|
 |40a|[Plus Minus](https://www.hackerrank.com/challenges/staircase/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Staircse.cpp) |    |   | |Easy|Algorithm|
-|40|[Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CompareTheTriples.py) |    |   | |Easy|Algorithm|
-|40a|[Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CompareTheTriples.cpp) |    |   | |Easy|Algorithm|
-|41|[Min Max SUm](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/MiniMaxSum.py) |    |   | |Easy|Algorithm|
-|42|[Birthay Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/BdayCakeCandles.py) |    |   | |Easy|Algorithm|
-|43|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.py) |    |   | |Easy|Algorithm|
-|43a|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.cpp) |    |   | |Easy|Algorithm|
-|44|[Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.py) |    |   | |Easy|Algorithm|
-|44a|[Apple and Oranges](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.cpp) |    |   | |Easy|Algorithm|
+|41|[Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CompareTheTriples.py) |    |   | |Easy|Algorithm|
+|41a|[Compare the Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/CompareTheTriples.cpp) |    |   | |Easy|Algorithm|
+|42|[Min Max SUm](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/MiniMaxSum.py) |    |   | |Easy|Algorithm|
+|43|[Birthay Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/BdayCakeCandles.py) |    |   | |Easy|Algorithm|
+|44|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.py) |    |   | |Easy|Algorithm|
+|44a|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/GradingStudents.cpp) |    |   | |Easy|Algorithm|
+|45|[Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.py) |    |   | |Easy|Algorithm|
+|45a|[Apple and Oranges](https://www.hackerrank.com/challenges/grading/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/AppleOrange.cpp) |    |   | |Easy|Algorithm|
