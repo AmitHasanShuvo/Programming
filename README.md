@@ -1,5 +1,5 @@
 # Programming
-I tried to solve programming problems from codeforces,codechef,leetcode and many other platforms.It's my little effort to put all the solutions here to help others to understand.
+I tried to solve programming problems from codeforces,codechef,leetcode,hackerrank and many other platforms.It's my little effort to put all the solutions here to help others to understand.
 
 
 ## Languages
@@ -10,8 +10,12 @@ C++ (a)
 
 1. Install PyCharm or VS code on your machine.(Make sure you use Python 3.7 or higher)
 2. git clone this repo to your local disk.
+3. For C++ codes follow this link: https://code.visualstudio.com/docs/languages/cpp
 
-
+## Interview Preparation
+|  #  |      Title     |   Solutions   | Time          | Space         | Video/Explanation  | Difficulty  | Tag                   
+|-----|----------------|---------------|---------------|---------------|--------|-------------|-------------
+|1|[Basic Data Types ](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Interview%20Prep/HackerRank%20C%2B%2B/BasicDataTypes.cpp) |  |  | |
 
 ## Algorithms
 
