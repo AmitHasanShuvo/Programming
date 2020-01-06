@@ -17,6 +17,11 @@ C++ (a)
 |-----|----------------|---------------|---------------|---------------|--------|-------------|-------------
 |1|[Basic Data Types ](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Interview%20Prep/HackerRank%20C%2B%2B/BasicDataTypes.cpp) |  | Easy | C++|
 
+|1|[For loop in C ](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Interview%20Prep/HackerRank%20C%2B%2B/BasicDataTypes.cpp) |  | Easy | C++|
+
+|1|[Basic Data Types ](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Interview%20Prep/HackerRank%20C%2B%2B/BasicDataTypes.cpp) |  | Easy | C++|
+
+
 ## Algorithms
 
 |  #  |      Title     |   Solutions   | Time          | Space         | Video/Explanation  | Difficulty  | Tag                   

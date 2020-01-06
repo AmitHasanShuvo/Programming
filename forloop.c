@@ -4,44 +4,23 @@
 #include <stdlib.h>
 
 int main(){
-    int i;
+    
     int a,b;
+    char* rep[10]={"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
     scanf("%d\n%d", &a, &b);
-
-    for (i=a; i<b+1; i++){
-        if (i==1){
-            printf{"one"};
-
+    for(int i =a;i<=b;i++){
+        if(i>9){
+            if(i %2 ==0)
+                printf("even\n");
+            else
+                printf("odd\n");
+        }   
+        else {
+            printf( "%s\n", rep[i]);
         }
-        else if (i ==2){
-            printf("two");
-        }
-        else if (i ==3){
-            printf("three");
-        }
-        else if (i ==4){
-            printf("four");
-        }
-        else if (i ==5){
-            printf("five");
-        }
-        else if (i ==6){
-            printf("six");
-        }
-        else if (i ==7){
-            printf("seven");
-        }
-        else if (i ==8){
-            printf("eight");
-
-        }
-        else  (i ==9){
-            printf("nine");
-        }
-
+        
     }
-
-
+    return 0;
 
 }
