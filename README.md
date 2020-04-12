@@ -1,3 +1,13 @@
+# Author: Kazi Amit Hasan
+
+Department of Computer Science & Engineering, </br>
+Rajshahi University of Engineering & Technology (RUET) </br>
+Website: https://amithasanshuvo.github.io/ </br>
+Linkedin: https://www.linkedin.com/in/kazi-amit-hasan-514443140/ </br>
+Email: kaziamithasan89@gmail.com
+
+
+
 # Programming
 I tried to solve programming problems from codeforces,codechef,leetcode,hackerrank and many other platforms.It's my little effort to put all the solutions here to help others to understand.
 
