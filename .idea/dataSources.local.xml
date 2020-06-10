@@ -4,6 +4,7 @@
     <data-source name="@localhost" uuid="00c11567-c82b-40c6-a359-e9f65a24423c">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
       <secret-storage>master_key</secret-storage>
+      <schema-mapping />
     </data-source>
   </component>
 </project>
