@@ -32,7 +32,7 @@ I tried to solve programming problems from codeforces,codechef,leetcode,hackerra
 | 3   | [Playing with Characters](#) | [Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/Interview%20Prep/HackerRank%20C%2B%2B/PlayingWithChar.cpp) |      | Easy  | C++               |
 | 4   | [Count Digits](#) | [Solution](https://github.com/AmitHasanShuvo/Programming/blob/master/HackerRank%20C%2B%2B/CountDigits.cpp) |      | Easy  | C++               |
 
-## Algorithms
+## Other Solved Problems
 
 | #   | Title                                                                                                      | Solutions                                                                                        | Time | Space | Video/Explanation                                  | Difficulty | Tag                       |
 | --- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ----- | -------------------------------------------------- | ---------- | ------------------------- |
