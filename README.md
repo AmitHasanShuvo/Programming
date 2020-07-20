@@ -9,7 +9,7 @@ Email: kaziamithasan89@gmail.com
 
 # Programming
 
-I tried to solve programming problems from codeforces,codechef,leetcode,hackerrank and many other platforms.It's my little effort to put all the solutions here to help others to understand.
+I tried to solve programming problems from codeforces, codechef, leetcode, hackerrank, hackerearth and many other platforms.It's my little effort to put all the solutions here to help others to understand.
 
 ## Languages
 
